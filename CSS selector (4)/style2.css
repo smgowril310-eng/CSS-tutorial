@@ -1,6 +1,7 @@
 .one{
     color:red;
 }
-.two{
+a.two{
     color:blue;
+    text-decoration: none;
 }
